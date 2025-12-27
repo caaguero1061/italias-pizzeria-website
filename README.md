@@ -33,7 +33,7 @@ to pick up my food.**
 - List of pizzas with names and prices
 - Additional sections for pasta, sides, and drinks
 - Footer
-- 
+  
 ### **Contact Page Wireframe**
 
 - Header
@@ -43,7 +43,6 @@ to pick up my food.**
 - Contact form
 - Footer
 - Email
----
 
 ## Technologies Used
 
