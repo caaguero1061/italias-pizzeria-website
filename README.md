@@ -1,5 +1,5 @@
 Cassandra Aguero
-# Italia's Pizzeria Project
+# Italia's Pizzeria Website
 ## Project Description
 
 This is a simple three-page website for a fictional restaurant called **Italia’s Pizzeria**. The site
