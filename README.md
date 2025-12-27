@@ -16,6 +16,7 @@ order.**
 3. **As a customer, I want to view the restaurant’s hours and address so I know when and where
 to pick up my food.**
 ---
+
 ## Wireframes
 
 ### **Home Page Wireframe**
