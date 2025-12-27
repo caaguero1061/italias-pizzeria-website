@@ -41,6 +41,7 @@ to pick up my food.**
 - Address
 - Contact form
 - Footer
+- Email
 ---
 
 ## Technologies Used
