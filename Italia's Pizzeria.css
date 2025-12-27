@@ -1,0 +1,114 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background: #fff8f0;
+    color: #2b2b2b;
+    line-height: 1.6;
+}
+
+/* NAVBAR */
+.navbar {
+    background: #d62828;
+    color: white;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .logo {
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.navbar .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+/* HERO */
+.hero {
+    background: url('https://images.unsplash.com/photo-1601924582975-7aa6d5f88c1d') center/cover no-repeat;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.hero-buttons .btn-primary,
+.btn-primary {
+    background: #f77f00;
+    padding: 12px 25px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    display: inline-block;
+}
+
+.btn-secondary {
+    background: #003049;
+    padding: 12px 25px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+/* GENERAL SECTIONS */
+section {
+    padding: 60px 15%;
+}
+
+h2 {
+    color: #d62828;
+    margin-bottom: 20px;
+}
+
+/* MENU */
+.menu-list li {
+    margin: 10px 0;
+}
+
+/* SPECIALS */
+.special-list li {
+    margin: 10px 0;
+    font-size: 1.1rem;
+}
+
+/* ORDER */
+.order-info p {
+    margin: 8px 0;
+}
+
+/* CONTACT */
+.hours li {
+    margin: 5px 0;
+}
+
+/* FOOTER */
+footer {
+    background: #d62828;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
