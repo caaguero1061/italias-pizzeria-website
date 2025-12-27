@@ -7,7 +7,9 @@ This is a simple three-page website for a fictional restaurant called **Italiaâ€
 includes a homepage, a menu page, and a contact page. The purpose of the project is to practice
 HTML, CSS, wireframing, and GitHub workflows.
 ---
+
 ## User Stories
+
 1. **As a customer, I want to browse the pizza menu so that I can choose what I want to order.**
 2. **As a customer, I want to easily find the restaurantâ€™s phone number so I can quickly place an
 order.**
