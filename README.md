@@ -20,17 +20,22 @@ to pick up my food.**
 ## Wireframes
 
 ### **Home Page Wireframe**
+
 - Header with site title and phone number
 - Hero section with welcome text and "View Menu" button
 - Featured pizza items
 - Hours & location preview
 - Footer
+- 
 ### **Menu Page Wireframe**
+
 - Header
 - List of pizzas with names and prices
 - Additional sections for pasta, sides, and drinks
 - Footer
+- 
 ### **Contact Page Wireframe**
+
 - Header
 - Phone number
 - Hours table
@@ -38,7 +43,9 @@ to pick up my food.**
 - Contact form
 - Footer
 ---
+
 ## Technologies Used
+
 - HTML
 - CSS
 - Git
