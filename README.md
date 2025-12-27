@@ -2,6 +2,7 @@ Cassandra Aguero
 # Italia’s Pizzeria Website
 
 ## Project Description
+
 This is a simple three-page website for a fictional restaurant called **Italia’s Pizzeria**. The site
 includes a homepage, a menu page, and a contact page. The purpose of the project is to practice
 HTML, CSS, wireframing, and GitHub workflows.
