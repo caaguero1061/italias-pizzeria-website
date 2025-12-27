@@ -23,7 +23,8 @@ to pick up my food.**
 - Header with site title and phone number
 - Hero section with welcome text and "View Menu" button
 - Featured pizza items
-- Hours & location preview
+- Hours
+- Location preview
 - Footer
 - 
 ### **Menu Page Wireframe**
